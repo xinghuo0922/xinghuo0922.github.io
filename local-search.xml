@@ -4,6 +4,25 @@
   
   
   <entry>
+    <title>难以忍受的HEXO图片路径问题</title>
+    <link href="/2023/01/12/%E9%9A%BE%E4%BB%A5%E5%BF%8D%E5%8F%97%E7%9A%84HEXO%E5%9B%BE%E7%89%87%E8%B7%AF%E5%BE%84%E9%97%AE%E9%A2%98/"/>
+    <url>/2023/01/12/%E9%9A%BE%E4%BB%A5%E5%BF%8D%E5%8F%97%E7%9A%84HEXO%E5%9B%BE%E7%89%87%E8%B7%AF%E5%BE%84%E9%97%AE%E9%A2%98/</url>
+    
+    <content type="html"><![CDATA[<h2 id="不知道是谁写得hexo-asset-image插件，你能不能看看自己的逻辑，那个图片路径狗屁不通，你知不知道像我这种爱钻牛角尖的小白来说有多难受吗，我下午4点多就在这搞图片，那网站上死活加载不出来，搞到现在一点多，还没弄好😭"><a href="#不知道是谁写得hexo-asset-image插件，你能不能看看自己的逻辑，那个图片路径狗屁不通，你知不知道像我这种爱钻牛角尖的小白来说有多难受吗，我下午4点多就在这搞图片，那网站上死活加载不出来，搞到现在一点多，还没弄好😭" class="headerlink" title="不知道是谁写得hexo-asset-image插件，你能不能看看自己的逻辑，那个图片路径狗屁不通，你知不知道像我这种爱钻牛角尖的小白来说有多难受吗，我下午4点多就在这搞图片，那网站上死活加载不出来，搞到现在一点多，还没弄好😭"></a>不知道是谁写得hexo-asset-image插件，你能不能看看自己的逻辑，那个图片路径狗屁不通，你知不知道像我这种爱钻牛角尖的小白来说有多难受吗，我下午4点多就在这搞图片，那网站上死活加载不出来，搞到现在一点多，还没弄好😭</h2><hr><h3 id="我真想刀了你！"><a href="#我真想刀了你！" class="headerlink" title="我真想刀了你！"></a>我真想刀了你！</h3><h2 id="我真想刀了你！-1"><a href="#我真想刀了你！-1" class="headerlink" title="我真想刀了你！"></a>我真想刀了你！</h2><h1 id="我真想刀了你！-2"><a href="#我真想刀了你！-2" class="headerlink" title="我真想刀了你！"></a>我真想刀了你！</h1><p><img src="/images/%E9%9A%BE%E4%BB%A5%E5%BF%8D%E5%8F%97%E7%9A%84HEXO%E5%9B%BE%E7%89%87%E8%B7%AF%E5%BE%84%E9%97%AE%E9%A2%98/%E6%9D%80%E6%9D%80%E6%9D%80.jpg" alt="杀杀杀"></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>吐槽</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>找回博客</title>
     <link href="/2023/01/11/%E6%89%BE%E5%9B%9E%E5%8D%9A%E5%AE%A2/"/>
     <url>/2023/01/11/%E6%89%BE%E5%9B%9E%E5%8D%9A%E5%AE%A2/</url>
@@ -65,7 +84,7 @@
     <link href="/2022/10/21/%E4%BD%BF%E7%94%A8Git%E6%97%B6%E7%9A%84%E5%B0%8F%E9%97%AE%E9%A2%98/"/>
     <url>/2022/10/21/%E4%BD%BF%E7%94%A8Git%E6%97%B6%E7%9A%84%E5%B0%8F%E9%97%AE%E9%A2%98/</url>
     
-    <content type="html"><![CDATA[<h2 id="问题描述"><a href="#问题描述" class="headerlink" title="问题描述"></a>问题描述</h2><p>使用Android Studio时，我对一个工程进行上传更新，想把它Push到我的Github仓库，此时报错如下<br><img src="/source/_posts/%E4%BD%BF%E7%94%A8Git%E6%97%B6%E7%9A%84%E5%B0%8F%E9%97%AE%E9%A2%98/gitwrong2.png" alt="giterror1"></p><hr><h2 id="简单解决方法"><a href="#简单解决方法" class="headerlink" title="简单解决方法"></a>简单解决方法</h2><p>这是本人谷歌搜出来的解决方法，不一定有用，但确实解决了我的问题<br><a href="https://blog.csdn.net/haohaoxuexiyai/article/details/115838653">https://blog.csdn.net/haohaoxuexiyai/article/details/115838653</a><br>我使用的是强制push的方法，因为本来就是我的个人项目，貌似是GitHub错误的认为仓库里的代码比我本地代码的版本要高，不允许上传，希望GitHub能改改这愚蠢的逻辑。</p><hr><p>无参考文献</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="问题描述"><a href="#问题描述" class="headerlink" title="问题描述"></a>问题描述</h2><p>使用Android Studio时，我对一个工程进行上传更新，想把它Push到我的Github仓库，此时报错如下<br><img src="/images/%E4%BD%BF%E7%94%A8Git%E6%97%B6%E7%9A%84%E5%B0%8F%E9%97%AE%E9%A2%98/gitwrong1.png" alt="giterror1"></p><hr><h2 id="简单解决方法"><a href="#简单解决方法" class="headerlink" title="简单解决方法"></a>简单解决方法</h2><p>这是本人谷歌搜出来的解决方法，不一定有用，但确实解决了我的问题<br><a href="https://blog.csdn.net/haohaoxuexiyai/article/details/115838653">https://blog.csdn.net/haohaoxuexiyai/article/details/115838653</a><br>我使用的是强制push的方法，因为本来就是我的个人项目，貌似是GitHub错误的认为仓库里的代码比我本地代码的版本要高，不允许上传，希望GitHub能改改这愚蠢的逻辑。</p><hr><p>无参考文献</p>]]></content>
     
     
     
