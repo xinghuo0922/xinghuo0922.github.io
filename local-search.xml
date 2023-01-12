@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>拜拜了hexo</title>
+    <link href="/2023/01/13/%E6%8B%9C%E6%8B%9C%E4%BA%86hexo/"/>
+    <url>/2023/01/13/%E6%8B%9C%E6%8B%9C%E4%BA%86hexo/</url>
+    
+    <content type="html"><![CDATA[<h2 id="经过"><a href="#经过" class="headerlink" title="经过"></a>经过</h2><p>因为种种原因，我尝试将hexo博客部署到新买的腾讯云服务器上，但是失败了无数次，浪费了一天的时光<br>所以再见了hexo，我将投入worldpress的怀抱，但这边的网站应该不会关闭。</p><h1 id="拜拜"><a href="#拜拜" class="headerlink" title="拜拜"></a>拜拜</h1><p>好歹写了大半年了，我还是尽量两边同时更新吧😂</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>日常</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>难以忍受的HEXO图片路径问题</title>
+    <link href="/2023/01/12/%E9%9A%BE%E4%BB%A5%E5%BF%8D%E5%8F%97%E7%9A%84HEXO%E5%9B%BE%E7%89%87%E8%B7%AF%E5%BE%84%E9%97%AE%E9%A2%98/"/>
+    <url>/2023/01/12/%E9%9A%BE%E4%BB%A5%E5%BF%8D%E5%8F%97%E7%9A%84HEXO%E5%9B%BE%E7%89%87%E8%B7%AF%E5%BE%84%E9%97%AE%E9%A2%98/</url>
+    
+    <content type="html"><![CDATA[<h2 id="不知道是谁写得hexo-asset-image插件，你能不能看看自己的逻辑，那个图片路径狗屁不通，你知不知道像我这种爱钻牛角尖的小白来说有多难受吗，我下午4点多就在这搞图片，那网站上死活加载不出来，搞到现在一点多，还没弄好😭"><a href="#不知道是谁写得hexo-asset-image插件，你能不能看看自己的逻辑，那个图片路径狗屁不通，你知不知道像我这种爱钻牛角尖的小白来说有多难受吗，我下午4点多就在这搞图片，那网站上死活加载不出来，搞到现在一点多，还没弄好😭" class="headerlink" title="不知道是谁写得hexo-asset-image插件，你能不能看看自己的逻辑，那个图片路径狗屁不通，你知不知道像我这种爱钻牛角尖的小白来说有多难受吗，我下午4点多就在这搞图片，那网站上死活加载不出来，搞到现在一点多，还没弄好😭"></a>不知道是谁写得hexo-asset-image插件，你能不能看看自己的逻辑，那个图片路径狗屁不通，你知不知道像我这种爱钻牛角尖的小白来说有多难受吗，我下午4点多就在这搞图片，那网站上死活加载不出来，搞到现在一点多，还没弄好😭</h2><hr><h3 id="我真想刀了你！"><a href="#我真想刀了你！" class="headerlink" title="我真想刀了你！"></a>我真想刀了你！</h3><h2 id="我真想刀了你！-1"><a href="#我真想刀了你！-1" class="headerlink" title="我真想刀了你！"></a>我真想刀了你！</h2><h1 id="我真想刀了你！-2"><a href="#我真想刀了你！-2" class="headerlink" title="我真想刀了你！"></a>我真想刀了你！</h1><p><img src="/images/%E9%9A%BE%E4%BB%A5%E5%BF%8D%E5%8F%97%E7%9A%84HEXO%E5%9B%BE%E7%89%87%E8%B7%AF%E5%BE%84%E9%97%AE%E9%A2%98/%E6%9D%80%E6%9D%80%E6%9D%80.jpg" alt="杀杀杀"></p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>吐槽</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>找回博客</title>
+    <link href="/2023/01/11/%E6%89%BE%E5%9B%9E%E5%8D%9A%E5%AE%A2/"/>
+    <url>/2023/01/11/%E6%89%BE%E5%9B%9E%E5%8D%9A%E5%AE%A2/</url>
+    
+    <content type="html"><![CDATA[<h2 id="原因"><a href="#原因" class="headerlink" title="原因"></a>原因</h2><p>起因是因为，本人在使用windows11大半年后终于忍受不了，说实话Windows11确实是依托答辩，纯粹是win10换皮，而且加上了没用的且消耗性能的动效。好像因为微软早在几年前就砍掉了系统测试，导致现阶段升级win11的用户成了第一批小白鼠，bug不断，我这种AMD用户更是惨遭迫害，微软你就是一坨🤮。</p><p>本人熟练的装回win10后，发现blog文件夹没考下来😅，慌的一批，还好最后在OneDrive里面找到了。</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>备份是个好习惯。</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>日常</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>搜索插入位置</title>
+    <link href="/2022/11/01/%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE/"/>
+    <url>/2022/11/01/%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE/</url>
+    
+    <content type="html"><![CDATA[<h2 id="题目"><a href="#题目" class="headerlink" title="题目"></a>题目</h2><p>给定一个排序数组和一个目标值，在数组中找到目标值，并返回其索引。如果目标值不存在于数组中，返回它将会被按顺序插入的位置。<br>请必须使用时间复杂度为 O(log n) 的算法。</p><p>作者：力扣 (LeetCode)<br>链接：<a href="https://leetcode.cn/leetbook/read/array-and-string/cxqdh/">https://leetcode.cn/leetbook/read/array-and-string/cxqdh/</a><br>来源：力扣（LeetCode）</p><hr><h2 id="解题"><a href="#解题" class="headerlink" title="解题"></a>解题</h2><p>本题规定了时间复杂度为 o(log n) ,那么就只能用二分查找。</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><code class="hljs c"><span class="hljs-type">int</span> <span class="hljs-title function_">searchInsert</span><span class="hljs-params">(<span class="hljs-type">int</span>* nums, <span class="hljs-type">int</span> numsSize, <span class="hljs-type">int</span> target)</span>&#123;<br>    <span class="hljs-type">int</span> high=numsSize<span class="hljs-number">-1</span>;<br>    <span class="hljs-type">int</span> low=<span class="hljs-number">0</span>;<br>    <span class="hljs-type">int</span> mid;<br>    <span class="hljs-keyword">while</span>(high&gt;=low)&#123;<br>        mid=(high+low)/<span class="hljs-number">2</span>;<br>        <span class="hljs-keyword">if</span>(nums[mid]&gt;target)<br>            high=mid<span class="hljs-number">-1</span>;<br>        <span class="hljs-keyword">else</span> <span class="hljs-keyword">if</span>(nums[mid]&lt;target)<br>            low=mid+<span class="hljs-number">1</span>;<br>        <span class="hljs-keyword">else</span><br>            <span class="hljs-keyword">return</span> mid;<br>    &#125;<br>    <span class="hljs-keyword">if</span>(nums[mid]&gt;target)<br>        <span class="hljs-keyword">return</span> mid;<br>    <span class="hljs-keyword">else</span><br>        <span class="hljs-keyword">return</span> mid+<span class="hljs-number">1</span>;<br>&#125;<br></code></pre></td></tr></table></figure><hr><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>二分查找是非常常见的查找方法，但因为我很久没动手了，连这么简单的知识点都忘得所剩无几了⊙﹏⊙∥</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>力扣题</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>寻找数组的中心索引</title>
+    <link href="/2022/10/27/%E5%AF%BB%E6%89%BE%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E5%BF%83%E7%B4%A2%E5%BC%95/"/>
+    <url>/2022/10/27/%E5%AF%BB%E6%89%BE%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E5%BF%83%E7%B4%A2%E5%BC%95/</url>
+    
+    <content type="html"><![CDATA[<h2 id="题目"><a href="#题目" class="headerlink" title="题目"></a>题目</h2><p>给你一个整数数组 nums ，请计算数组的 中心下标 。<br>数组 中心下标 是数组的一个下标，其左侧所有元素相加的和等于右侧所有元素相加的和。<br>如果中心下标位于数组最左端，那么左侧数之和视为 0 ，因为在下标的左侧不存在元素。这一点对于中心下标位于数组最右端同样适用。<br>如果数组有多个中心下标，应该返回 最靠近左边 的那一个。如果数组不存在中心下标，返回 -1 。</p><p>作者：力扣 (LeetCode)<br>链接：<a href="https://leetcode.cn/leetbook/read/array-and-string/yf47s/">https://leetcode.cn/leetbook/read/array-and-string/yf47s/</a></p><hr><h2 id="解题"><a href="#解题" class="headerlink" title="解题"></a>解题</h2><h3 id="方法一"><a href="#方法一" class="headerlink" title="方法一"></a>方法一</h3><p>暴力加法，从第一个元素开始加，直到相加和×2等于总和减去中心结点后的一半。</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br></pre></td><td class="code"><pre><code class="hljs c"><span class="hljs-type">int</span> <span class="hljs-title function_">pivotIndex</span><span class="hljs-params">(<span class="hljs-type">int</span>* nums, <span class="hljs-type">int</span> numsSize)</span>&#123;<br>    <span class="hljs-type">int</span> all=<span class="hljs-number">0</span>;<br>    <span class="hljs-type">int</span> sum=<span class="hljs-number">0</span>;<br>    <span class="hljs-keyword">for</span>(<span class="hljs-type">int</span> i=<span class="hljs-number">0</span>;i&lt;numsSize;i++)<br>        all+=nums[i];<br>    <span class="hljs-keyword">if</span>(nums[<span class="hljs-number">0</span>]==all)<br>        <span class="hljs-keyword">return</span> <span class="hljs-number">0</span>;<br>    <span class="hljs-keyword">for</span>(<span class="hljs-type">int</span> j=<span class="hljs-number">0</span>;j&lt;numsSize<span class="hljs-number">-1</span>;j++)&#123;<br>        sum+=nums[j];<br>        <span class="hljs-keyword">if</span>(sum*<span class="hljs-number">2</span>==all-nums[j+<span class="hljs-number">1</span>])<br>            <span class="hljs-keyword">return</span> j+<span class="hljs-number">1</span>;<br>    &#125;<br>    <span class="hljs-keyword">return</span> <span class="hljs-number">-1</span>;<br>&#125;<br></code></pre></td></tr></table></figure><h3 id="方法二"><a href="#方法二" class="headerlink" title="方法二"></a>方法二</h3><p>也是暴力算法，中心结点左边的和等于右边的和，不用每次×2效率高些</p><figure class="highlight c"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br></pre></td><td class="code"><pre><code class="hljs c"><span class="hljs-type">int</span> <span class="hljs-title function_">pivotIndex</span><span class="hljs-params">(<span class="hljs-type">int</span>* nums, <span class="hljs-type">int</span> numsSize)</span>&#123;<br>    <span class="hljs-type">int</span> suml=<span class="hljs-number">0</span>;<br>    <span class="hljs-type">int</span> sumr=<span class="hljs-number">0</span>;<br>    <span class="hljs-keyword">for</span>(<span class="hljs-type">int</span> i=<span class="hljs-number">1</span>;i&lt;numsSize;i++)<br>        sumr+=nums[i];<br>    <span class="hljs-keyword">if</span>(sumr==<span class="hljs-number">0</span>)<br>        <span class="hljs-keyword">return</span> <span class="hljs-number">0</span>;<br>    <span class="hljs-keyword">for</span>(<span class="hljs-type">int</span> j=<span class="hljs-number">1</span>;j&lt;numsSize;j++)&#123;<br>        suml+=nums[j<span class="hljs-number">-1</span>];<br>        sumr-=nums[j];<br>        <span class="hljs-keyword">if</span>(suml==sumr)<br>            <span class="hljs-keyword">return</span> j;<br>    &#125;<br>    <span class="hljs-keyword">return</span> <span class="hljs-number">-1</span>;<br>&#125;<br></code></pre></td></tr></table></figure><hr><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>其实，我力扣账号注册很久了，今天才真正开始，没什么好说的，坚持好吧！</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>力扣题</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>使用Git时的小问题</title>
+    <link href="/2022/10/21/%E4%BD%BF%E7%94%A8Git%E6%97%B6%E7%9A%84%E5%B0%8F%E9%97%AE%E9%A2%98/"/>
+    <url>/2022/10/21/%E4%BD%BF%E7%94%A8Git%E6%97%B6%E7%9A%84%E5%B0%8F%E9%97%AE%E9%A2%98/</url>
+    
+    <content type="html"><![CDATA[<h2 id="问题描述"><a href="#问题描述" class="headerlink" title="问题描述"></a>问题描述</h2><p>使用Android Studio时，我对一个工程进行上传更新，想把它Push到我的Github仓库，此时报错如下<br><img src="/images/%E4%BD%BF%E7%94%A8Git%E6%97%B6%E7%9A%84%E5%B0%8F%E9%97%AE%E9%A2%98/gitwrong1.png" alt="giterror1"></p><hr><h2 id="简单解决方法"><a href="#简单解决方法" class="headerlink" title="简单解决方法"></a>简单解决方法</h2><p>这是本人谷歌搜出来的解决方法，不一定有用，但确实解决了我的问题<br><a href="https://blog.csdn.net/haohaoxuexiyai/article/details/115838653">https://blog.csdn.net/haohaoxuexiyai/article/details/115838653</a><br>我使用的是强制push的方法，因为本来就是我的个人项目，貌似是GitHub错误的认为仓库里的代码比我本地代码的版本要高，不允许上传，希望GitHub能改改这愚蠢的逻辑。</p><hr><p>无参考文献</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>心得</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>2022/9/16</title>
+    <link href="/2022/09/16/2022-9-16/"/>
+    <url>/2022/09/16/2022-9-16/</url>
+    
+    <content type="html"><![CDATA[<h2 id="2022-x2F-9-x2F-16"><a href="#2022-x2F-9-x2F-16" class="headerlink" title="2022&#x2F;9&#x2F;16"></a>2022&#x2F;9&#x2F;16</h2><p>今天是开学第三周星期五，又混了一天，上午的课（重修课）几乎全翘了，因为路比较远加上要做核酸😅。<br>明天就是周末了，要走出寝室，不然又是浑浑噩噩两天</p><h2 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h2><p>无聊的一天</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>日常</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>博客配置体验</title>
+    <link href="/2022/09/15/%E5%8D%9A%E5%AE%A2%E9%85%8D%E7%BD%AE%E4%BD%93%E9%AA%8C/"/>
+    <url>/2022/09/15/%E5%8D%9A%E5%AE%A2%E9%85%8D%E7%BD%AE%E4%BD%93%E9%AA%8C/</url>
+    
+    <content type="html"><![CDATA[<h2 id="首先"><a href="#首先" class="headerlink" title="首先"></a>首先</h2><p>太几把累了</p><hr><h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p>没什么好说的，累就是累！</p><hr><h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2><p>无</p>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>心得</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>我的第一篇博客</title>
+    <link href="/2022/09/15/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <url>/2022/09/15/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</url>
+    
+    <content type="html"><![CDATA[<h2 id="第一章"><a href="#第一章" class="headerlink" title="第一章"></a>第一章</h2><p>内容</p><hr><h2 id="第二章"><a href="#第二章" class="headerlink" title="第二章"></a>第二章</h2><p>内容</p><hr><h2 id="参考文献"><a href="#参考文献" class="headerlink" title="参考文献"></a>参考文献</h2>]]></content>
+    
+    
+    
+    <tags>
+      
+      <tag>博客配置</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  
+</search>
